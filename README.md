@@ -10,6 +10,6 @@ a. Supervised classification performance: MetaAnalyst computes the overall class
 b. Unsupervised clustering performance
 c. Consensus performance
 6. Generate the output in tab-delimited files and publication quality plots with various formatting capabilities.
-The MetaAnalyst software is implemented using Matlab R2021a and it is available freely as a stand-alone package for Windows and Linux operating systems at: https://github.com/mshawaqfeh/MetaAnalystV1
+The MetaAnalyst software is implemented using Matlab R2021a and it is available freely as a stand-alone package for Windows and Linux operating systems at: https://github.com/Rababa-Salahaldeen/MetaAnalystV1/blob/main/MetaAnalyst.exe
 Requirements
 MetaAnalyst is a standalone desktop application, written in MATLAB and does not require any additional packages to install. MetaAnalyst runs on Microsoft Windows and Linux.
