@@ -16,4 +16,4 @@ The MetaAnalyst software is implemented using Matlab R2021a and it is available 
 
 ## Requirements
 
-MetaAnalyst is a standalone desktop application, written in MATLAB and does not require any additional packages to install. MetaAnalyst runs on Microsoft Windows and Linux.
+MetaAnalyst is a standalone desktop application, written in MATLAB and does not require any additional packages to install. MetaAnalyst runs on Microsoft Windows.
