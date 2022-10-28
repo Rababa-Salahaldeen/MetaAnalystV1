@@ -1,5 +1,5 @@
 # MetaAnalystV1
-##Introduction
+## Introduction
 
 MetaAnalyst is a free, user-friendly software package for metagenomic biomarker detection and phenotype classification. MetaAnalyst provides the following functionalities as an efficient analysis tool for metagenomic biomarker detection and phenotype classification:
 1. Accepts seven different types of input files.
@@ -14,6 +14,6 @@ c. Consensus performance
 The MetaAnalyst software is implemented using Matlab R2021a and it is available freely as a stand-alone package for Windows and Linux operating systems at: https://github.com/Rababa-Salahaldeen/MetaAnalystV1/blob/main/MetaAnalyst.exe
 
 
-##Requirements
+## Requirements
 
 MetaAnalyst is a standalone desktop application, written in MATLAB and does not require any additional packages to install. MetaAnalyst runs on Microsoft Windows and Linux.
