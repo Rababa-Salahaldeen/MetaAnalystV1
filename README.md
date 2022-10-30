@@ -7,7 +7,9 @@ MetaAnalyst is a free, user-friendly software package for metagenomic biomarker 
 3. Provides a variety of pre-processing procedures before downstream statistical analysis.
 4. Includes about 28 biomarker detection algorithms and 4 classifiers
 5. Provides three criteria for evaluating the performance of biomarker detection algorithms:
+
 a. Supervised classification performance: MetaAnalyst computes the overall classification accuracy (ACC), balanced accuracy (BACC), sensitivity (SEN), specificity (SPC), miss classification rate (MCR), receiver operation curve (ROC), and area under the curve (AUC).
+
 b. Unsupervised clustering performance
 c. Consensus performance
 6. Generate the output in tab-delimited files and publication quality plots with various formatting capabilities.
