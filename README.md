@@ -11,8 +11,11 @@ MetaAnalyst is a free, user-friendly software package for metagenomic biomarker 
 a. Supervised classification performance: MetaAnalyst computes the overall classification accuracy (ACC), balanced accuracy (BACC), sensitivity (SEN), specificity (SPC), miss classification rate (MCR), receiver operation curve (ROC), and area under the curve (AUC).
 
 b. Unsupervised clustering performance
+
 c. Consensus performance
+
 6. Generate the output in tab-delimited files and publication quality plots with various formatting capabilities.
+
 The MetaAnalyst software is implemented using Matlab R2021a and it is available freely as a stand-alone package for Windows and Linux operating systems at: https://github.com/Rababa-Salahaldeen/MetaAnalystV1/blob/main/MetaAnalyst.exe
 
 
