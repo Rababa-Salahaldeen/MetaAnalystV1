@@ -2,7 +2,7 @@
 ## Introduction
 
 MetaAnalyst is a free, user-friendly software package for metagenomic biomarker detection and phenotype classification. MetaAnalyst provides the following functionalities as an efficient analysis tool for metagenomic biomarker detection and phenotype classification:
-1. Accepts seven different types of input files.
+1. Accepts seven different types of input files (csv, tsv, xls, xlsx, biom, mat and json).
 2. Supports multilevel labeling that enables researchers to analyze the data from different perspectives (i.e., under various conditions) smoothly.
 3. Provides a variety of pre-processing procedures before downstream statistical analysis.
 4. Includes about 28 biomarker detection algorithms and 4 classifiers
